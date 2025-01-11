@@ -1,7 +1,7 @@
 # NYXI_HYPERION
 Tutorial to use Nyxi hyperion on windows (maybe in the future with custom driver on linux:
 
-## FIRST STEP:
+## TUTORIAL:
 * Connect joycons by pressing the middle button on the rail guide and pairing them on bluetooth devices
 * Download and install HidCerberus (loaded my working folder if online one doesn't work)
 * Start it and go to http://localhost:26762 or http://127.0.0.1:26762
